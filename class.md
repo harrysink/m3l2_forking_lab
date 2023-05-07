@@ -1,3 +1,0 @@
-Harrison
-Nigeria
-Version Control
